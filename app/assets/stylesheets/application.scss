@@ -11,3 +11,21 @@
 // Your CSS partials
 @import "components/index";
 @import "pages/index";
+
+
+// BODY
+body {
+  color: #333333;
+  font-family: "Helvetica", sans-serif;
+  padding: 0px !important;
+  margin: 0px !important;
+
+  font-size: 14px;
+}
+
+.avatar {
+  max-height:30px;
+  border-radius: 15px;
+  width:auto;
+  vertical-align:middle;
+}
